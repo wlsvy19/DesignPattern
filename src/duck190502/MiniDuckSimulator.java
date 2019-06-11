@@ -1,5 +1,5 @@
 package duck190502;
-
+//스트래티지패턴
 public class MiniDuckSimulator {
 	public static void main(String[] args) {
 		Duck mallard = new MallardDuck();
